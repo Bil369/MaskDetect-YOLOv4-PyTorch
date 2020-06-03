@@ -46,7 +46,7 @@
 使用Jupyter Notebook打开predict.ipynb，设置好图片路径后，运行detect_image()函数即可。
 
 ### 检测视频
-使用Jupyter Notebook打开predict.ipynb，设置好图片路径后，运行detect_video()函数即可。
+使用Jupyter Notebook打开predict.ipynb，设置好视频路径后，运行detect_video()函数即可。
 
 ### 训练
 下载预训练模型：
